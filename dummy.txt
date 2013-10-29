@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 New Commit!
+=======
+Hello, World!
+>>>>>>> 9e090e977c6e92057f34c1bc6a2a0666b2ad9634
